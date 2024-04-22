@@ -176,5 +176,3 @@ st.write("R^2 Score:", r2_score_train)
 # Display actual vs predicted prices as a table
 st.subheader('Actual vs Predicted Prices')
 st.write(data)
-
-pip install streamlit
